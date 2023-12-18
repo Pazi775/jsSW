@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jsSW:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/jsSW_jar2</output-path>
+    <root id="archive" name="jsSW.jar">
+      <element id="module-output" name="jsStaffWork.main" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,12 @@
+name: jsSW
+version: ' 1.2'
+main: juilestudio.jssw.Main
+api-version: '1.16'
+depend: [ LiteBans ]
+commands:
+  staffwork:
+    aliases:
+      - sw
+  jsstaffwork:
+    aliases:
+      - jssw
